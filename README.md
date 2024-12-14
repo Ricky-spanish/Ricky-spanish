@@ -8,7 +8,7 @@
 
 
 
-<img src="(https://github.com/Ricky-spanish/Ricky-spanish/blob/main/photo_2024-12-14_14-45-53.jpg)" width="300px">
+<img src="(photo_2024-12-14_14-45-53.jpg)" width="300px">
 
 
 
