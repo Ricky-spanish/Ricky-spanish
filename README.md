@@ -1,4 +1,5 @@
-## Hi there I`m Rickey Spanish👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Rickey+Spanish`s+Github+Profile..)](https://git.io/typing-svg)
 
 ![Пример GIF](i-see-you-roger.gif)
 
@@ -7,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-🚀 Ricket Spanish 
+🚀 Rickey Spanish 
 *State University of Management (2010)*  
 PR-menager - a specialist with more than 15 years of experience
 
