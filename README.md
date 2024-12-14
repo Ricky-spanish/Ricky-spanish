@@ -4,7 +4,10 @@
 ![Пример GIF](i-see-you-roger.gif)
 
 
-![Static Badge](https://img.shields.io/badge/py-pyhon-red?style=for-the-badge&logo=python&labelColor=red&color=yellow)
+![Static Badge](https://img.shields.io/badge/py-pyhon-red?style=for-the-badge&logo=python&labelColor=red&color=yellow) ![Static Badge](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&labelColor=white&color=blue)
+
+![Uploading image.png…]()
+
 
 ## 🙋‍♂️ About Me
 
