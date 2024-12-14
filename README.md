@@ -15,6 +15,8 @@
 
 ## 🙋‍♂️ About Me
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky-spanish&show_icons=true&theme=radical)
+
 🚀 Rickey Spanish 
 *State University of Management (2010)*  
 PR-menager - a specialist with more than 15 years of experience
