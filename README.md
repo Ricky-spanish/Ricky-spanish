@@ -6,7 +6,8 @@
 
 ![Static Badge](https://img.shields.io/badge/py-pyhon-red?style=for-the-badge&logo=python&labelColor=red&color=yellow) ![Static Badge](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&labelColor=white&color=blue)
 
-![Uploading image.png…]()
+!Ricky-spanish/photo_2024-12-14_14-45-53.jpg
+
 
 
 ## 🙋‍♂️ About Me
